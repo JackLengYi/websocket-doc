@@ -6,9 +6,9 @@
 
 ### 2.参数
 
- symbols (required)
+ * symbols (required)
 
- serverId (required)
+ * serverId (required)
 
- token (required)
+ * token (required)
 
