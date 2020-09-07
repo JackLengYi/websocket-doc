@@ -1,6 +1,14 @@
 ## websocket操作手册
 
-### websocket路径
+### 1.websocket路径
 
-#### hubx/websocket 
+#### hubx/websocket
+
+### 2.参数
+
+#### symbols (required)
+
+#### serverId (required)
+
+#### token （） (required)
 
