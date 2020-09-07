@@ -2,13 +2,13 @@
 
 ### 1.websocket路径
 
-#### hubx/websocket
+  hubx/websocket
 
 ### 2.参数
 
-#### symbols (required)
+ symbols (required)
 
-#### serverId (required)
+ serverId (required)
 
-#### token （） (required)
+ token (required)
 
