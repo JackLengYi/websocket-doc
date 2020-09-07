@@ -26,6 +26,6 @@ ws://10.0.0.20:9001/hubx/websocket?symbols=LTCUSD&serverId=1&token=eyJhbGciOiJIU
 403|同一ip连接数超过最大限制
 #### 响应数据
 ```json
-{\server_id\:null,\symbol\:\AUDCHF\,\display_name\:null,\digits\:5,\datetime\:1599210863,\date2string\:\2020-09-04 09:14:23\,\bid\:0.662020,\ask\:0.662380}
+{server_id:null,symbol:AUDCHF,display_name:null,digits:5,datetime:1599210863,date2string:2020-09-04 09:14:23,bid:0.662020,ask:0.662380}
 ```
 
