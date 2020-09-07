@@ -14,7 +14,7 @@
  
 ### 3.请求完整url示例
 ```conf
-ws://10.0.0.20:9001/hubx/websocket?symbols=LTCUSD&serverId=1&token=eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJhNjIzZTEiLCJzdWIiOiIxIn0.ojUCCh_15dMA_oN-KetIKGCwT8JUIsHa4zg5VZ8CKKs
+ws://localhost:9001/hubx/websocket?symbols=LTCUSD&serverId=1&token=eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJhNjIzZTEiLCJzdWIiOiIxIn0.ojUCCh_15dMA_oN-KeaLHGCwT2JUIsHa4zg5VZ8CBBs
 ```
 ### 4.响应
 #### 响应码
