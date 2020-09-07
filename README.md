@@ -2,7 +2,7 @@
 
 ### 1.websocket路径
 
-  hubx/websocket
+   hubx/websocket
 
 ### 2.参数
 
